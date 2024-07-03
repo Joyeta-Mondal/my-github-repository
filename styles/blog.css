@@ -1,8 +1,5 @@
-h3{
+div{
     background-color: coral;
-    height: 50px;
+    margin-bottom: 5px;
     border: 4px solid black;
-}
-p{
-    color: aqua;
 }
